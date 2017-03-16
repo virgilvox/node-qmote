@@ -1,15 +1,15 @@
 {
   "name": "qmote",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "virgilvox",
   "license": "ISC",
   "dependencies": {
     "coffee-script": "^1.12.4",
-    "noble": "^1.8.0"
+    "noble-device": "^1.4.1"
   }
 }
